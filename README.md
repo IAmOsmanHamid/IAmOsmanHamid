@@ -3,7 +3,7 @@
 🚀 Passionate about building fast, scalable, and user-friendly web applications with clean, maintainable code. I bring ideas to life using modern full-stack technologies, with a strong focus on the MERN stack (MongoDB, Express.js, React.js, Node.js).
 💻 Tech Stack & Skills
 
-    Frontend: React.js, HTML5, CSS3, JavaScript (ES6+), Bootstrap, Tailwind
+    Frontend: React.js, HTML5, CSS3, JavaScript (ES6+), Bootstrap
 
     Backend: Node.js, Express.js
 
