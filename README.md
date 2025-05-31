@@ -34,5 +34,3 @@ Check out my repositories to see real-world examples of:
 📫 Let's Connect!
 
 I'm open to exciting remote opportunities where I can contribute, grow, and make an impact. Let’s build something amazing together.
-
-Let me know if you want a version with more personality (casual/fun) or one tailored to a specific industry (like fintech, e-commerce, etc.).
